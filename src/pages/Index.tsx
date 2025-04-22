@@ -2,6 +2,7 @@
 import { useState } from "react";
 import FlashCard from "@/components/FlashCard";
 import Navbar from "@/components/Navbar";
+import { Button } from "@/components/ui/button";
 
 const Index = () => {
   // Example cards - in a real app, this would come from a database
